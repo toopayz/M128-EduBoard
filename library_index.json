@@ -1,12 +1,12 @@
 {
   "name": "M128-EduBoard",
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*",
   "keywords": "ATmega128, Seven Segmen, Button, Keypad, Relay, Joystick, Alphanumeric LCD, Potensio, LDR, LM35, DS1302, RTC",
   "description": "Microcontroller Education Board using ATmega128 and a lot of pheriperal with picture, example, and library to make learning is easy and fun.",
   "repository": {
     "type": "git",
     "url": "https://github.com/toopayz/M128-EduBoard.git"
-  },
-  "version": "1.0.0",
-  "frameworks": "arduino",
-  "platforms": "*"
+  }
 }

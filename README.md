@@ -1,4 +1,4 @@
-# Reference to MegaCore
+# M128-Learnig Board v1.00
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم... 
   
 On Progress  
