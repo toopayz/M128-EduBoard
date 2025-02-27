@@ -50,3 +50,8 @@ Temporary Items
 *.mkv
 *.wav
 *.exe
+*.lnk
+*.bak
+
+@Ign-*/
+@Ign-*

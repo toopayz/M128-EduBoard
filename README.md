@@ -1,4 +1,4 @@
-# M128-Learnig Board v1.00
+# M128-Learning Board v1.00
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم... 
   
 On Progress  
